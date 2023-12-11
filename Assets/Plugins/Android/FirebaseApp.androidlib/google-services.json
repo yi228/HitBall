@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "668960863157",
+    "project_id": "touchcountdb",
+    "storage_bucket": "touchcountdb.appspot.com",
+    "firebase_url": "https://touchcountdb-default-rtdb.asia-southeast1.firebasedatabase.app/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668960863157:android:80adcbe9f85c7575a15ffc",
+        "android_client_info": {
+          "package_name": "com.leoyit.touchCount"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAVrhcWP4YRkonF4tsVxshIBmuCoSUwjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
